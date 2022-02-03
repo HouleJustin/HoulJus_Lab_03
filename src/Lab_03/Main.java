@@ -10,7 +10,7 @@ public class Main {
     /**
      * Multiple tests to see if the methods from the class MyPoint function properly.
      *
-     * @param args tests
+     * @param args command lines
      */
     public static void main(String[] args){
 
