@@ -1,6 +1,3 @@
-package Lab_03;
-import java.lang.Math;
-
 /**
  * Name: Justin Houle
  * Date: 2022/02/08
@@ -9,6 +6,8 @@ import java.lang.Math;
  *  output the points as strings, determine if an array of points is either horizontal or not,
  *  and determine if one point is contained in an array of points.
  */
+package Lab_03;
+import java.lang.Math;
 
 public class MyPoint{
         private double x;

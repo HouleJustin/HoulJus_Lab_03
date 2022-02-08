@@ -1,10 +1,9 @@
-package Lab_03;
-
 /**
  * Name: Justin Houle
  * Date: 2022/02/08
  * Description: The main class used to test the class MyPoint
  */
+package Lab_03;
 
 public class Main {
     /**
